@@ -1,0 +1,79 @@
+.skx_card_user > img {
+    border: 2px #fff solid;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.course_name {
+    position: relative;
+    top: 0;
+    margin: 0 0 0 100px;
+    height: 85px;
+    padding-top: 8px;
+}
+.index{
+    color: black;
+    font-size: 16px;
+    padding-left: 5px;
+}
+.container {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.row{
+    margin-right: 0px; 
+}
+
+.actions{
+    position: absolute;
+    z-index: 10;
+    right: 25px;
+    top: 10px;
+    font-size: 18px;
+}
+.card .btn-action {
+    float: right;
+    position: relative;
+    margin: -23px 20px -23px auto;
+    background-color: #929FBA;
+    height: 47px;
+    width: 47px;
+    line-height: 0;
+    border-radius: 50%;
+}
+.fa {
+    padding-left: 5px;
+    letter-spacing: 2px;
+}
+
+.btn-floating i {
+    width: inherit;
+    font-size: 1.25rem;
+    line-height: 47px;
+    text-align: center;
+}
+.btn-floating, .btn-floating i {
+    display: inline-block;
+    color: #fff;
+}
+.card .card-data {
+    background-color: #929FBA;
+    color: #fff;
+    text-align: center;
+    height: auto;
+    padding: 10px;
+}
+.card .card-data ul {
+    margin-bottom: 0;
+    font-size: .9rem;
+}
+dl, h1, h2, h3, h4, h5, h6, ol, p, ul {
+    margin-top: 0;
+}
+li{ display:inline ;
+    text-decoration:none;
+
+} 
+.img-fluid{
+    width: 100%;
+}
